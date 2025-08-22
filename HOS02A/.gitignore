@@ -1,5 +1,7 @@
 .venv
 
 tool_agent/.env
+tool_agent/__pycache__
 
 multi_tool_agent/.env
+tool_agent/__pycache__

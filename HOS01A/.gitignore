@@ -1,3 +1,4 @@
 .venv
 
 greeting_agent/.env
+greeting_agent/__pycache__
