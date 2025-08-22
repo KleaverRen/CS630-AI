@@ -1,0 +1,4 @@
+.venv
+
+dad_joke_agent/.env
+dad_joke_agent/__pycache__
